@@ -34,7 +34,7 @@
           </e>
         </e>
         <e p="RomanNumeralKataTests.csproj" t="IncludeRecursive" />
-        <e p="UnitTest1.cs" t="Include" />
+        <e p="RomanNumeralTests.cs" t="Include" />
       </e>
     </e>
   </component>

@@ -13,12 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f30e7f98-bad0-4220-a339-3d6b87201b06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RomanNumeralKata.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RomanNumeralKata/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RomanNumeralKata/RomanNumeralKata.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="f30e7f98-bad0-4220-a339-3d6b87201b06" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +26,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/RomanNumeralKataTests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/RomanNumeralKataTests/RomanNumeralTests.cs" />
       </list>
     </option>
   </component>
@@ -44,6 +40,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="RomanNumeralKata" type="DotNetProject" factoryName=".NET Project">
@@ -75,6 +72,7 @@
       <updated>1603946390846</updated>
       <workItem from="1603946397247" duration="45000" />
       <workItem from="1603946446859" duration="41000" />
+      <workItem from="1603946531213" duration="446000" />
     </task>
     <servers />
   </component>
@@ -99,9 +97,9 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="723" y="-867" key="Rider.ProjectTemplateDialog.Size" timestamp="1603946425158">
+    <state x="723" y="-867" key="Rider.ProjectTemplateDialog.Size" timestamp="1603946599945">
       <screen x="383" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="723" y="-867" key="Rider.ProjectTemplateDialog.Size/383.-1057.1920.1057/0.23.1680.1027@383.-1057.1920.1057" timestamp="1603946425158" />
+    <state x="723" y="-867" key="Rider.ProjectTemplateDialog.Size/383.-1057.1920.1057/0.23.1680.1027@383.-1057.1920.1057" timestamp="1603946599945" />
   </component>
 </project>
