@@ -5,6 +5,11 @@ namespace RomanNumeralKata
         public static string ToRomanNumeral(int number)
         {
             var romanNumeral = "";
+            if (number == 5)
+            {
+                romanNumeral = "V";
+                return romanNumeral;
+            }
             while (number > 0)
             {
                 romanNumeral += "I";
