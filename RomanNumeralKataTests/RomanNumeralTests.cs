@@ -1,4 +1,3 @@
-using System;
 using RomanNumeralKata;
 using Xunit;
 
