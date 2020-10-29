@@ -4,7 +4,7 @@ namespace RomanNumeralKata
     {
         public static string ToRomanNumeral(int number)
         {
-            return null;
+            return "";
         }
     }
 }
