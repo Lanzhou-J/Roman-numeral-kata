@@ -10,6 +10,11 @@ namespace RomanNumeralKata
                 romanNumeral = "V";
                 return romanNumeral;
             }
+            if (number == 10)
+            {
+                romanNumeral = "X";
+                return romanNumeral;
+            }
             while (number > 0)
             {
                 romanNumeral += "I";
