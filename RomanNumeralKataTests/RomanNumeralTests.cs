@@ -9,7 +9,7 @@ namespace RomanNumeralKataTests
         [Fact]
         public void ToRomanNumeralShould_ReturnI_WhenInput0()
         {
-            var result = RomanNumeralGenerator.ToRomanNumeral(1);
+            var result = RomanNumeralGenerator.ToRomanNumeral(0);
             Assert.Equal("", result);
         }
         
