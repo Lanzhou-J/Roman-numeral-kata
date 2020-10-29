@@ -6,7 +6,7 @@ namespace RomanNumeralKataTests
     public class RomanNumeralTests
     {
         [Fact]
-        public void ToRomanNumeralShould_ReturnI_WhenInput0()
+        public void ToRomanNumeralShould_ReturnEmptyString_WhenInput0()
         {
             var result = RomanNumeralGenerator.ToRomanNumeral(0);
             Assert.Equal("", result);
