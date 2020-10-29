@@ -34,6 +34,13 @@ namespace RomanNumeralKataTests
             var result = RomanNumeralGenerator.ToRomanNumeral(5);
             Assert.Equal("V", result);
         }
+        
+        [Fact]
+        public void ToRomanNumeralShould_ReturnX_WhenInput10()
+        {
+            var result = RomanNumeralGenerator.ToRomanNumeral(10);
+            Assert.Equal("X", result);
+        }
 
     }
 }
