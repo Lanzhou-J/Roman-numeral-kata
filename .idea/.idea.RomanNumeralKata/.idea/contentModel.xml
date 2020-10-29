@@ -21,6 +21,7 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="RomanNumeralGenerator.cs" t="Include" />
         <e p="RomanNumeralKata.csproj" t="IncludeRecursive" />
       </e>
       <e p="RomanNumeralKata.sln" t="IncludeFlat" />

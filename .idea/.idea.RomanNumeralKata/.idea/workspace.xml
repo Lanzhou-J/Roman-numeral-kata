@@ -13,7 +13,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f30e7f98-bad0-4220-a339-3d6b87201b06" name="Default Changelist" comment="" />
+    <list default="true" id="f30e7f98-bad0-4220-a339-3d6b87201b06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RomanNumeralKata/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RomanNumeralKata/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RomanNumeralKata/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RomanNumeralKata/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +29,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/RomanNumeralKataTests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/RomanNumeralKataTests/RomanNumeralTests.cs" />
+        <option value="$PROJECT_DIR$/RomanNumeralKata/RomanNumeralGenerator.cs" />
       </list>
     </option>
   </component>
@@ -42,7 +47,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.RomanNumeralKata">
     <configuration name="RomanNumeralKata" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -72,7 +77,7 @@
       <updated>1603946390846</updated>
       <workItem from="1603946397247" duration="45000" />
       <workItem from="1603946446859" duration="41000" />
-      <workItem from="1603946531213" duration="446000" />
+      <workItem from="1603946531213" duration="764000" />
     </task>
     <servers />
   </component>

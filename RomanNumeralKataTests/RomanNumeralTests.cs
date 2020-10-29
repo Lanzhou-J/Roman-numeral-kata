@@ -13,11 +13,11 @@ namespace RomanNumeralKataTests
             Assert.Equal("", result);
         }
         
-        // [Fact]
-        // public void ToRomanNumeralShould_ReturnI_WhenInput1()
-        // {
-        //     var result = RomanNumeralGenerator.ToRomanNumeral(1);
-        //     Assert.Equal("I", result);
-        // }
+        [Fact]
+        public void ToRomanNumeralShould_ReturnI_WhenInput1()
+        {
+            var result = RomanNumeralGenerator.ToRomanNumeral(1);
+            Assert.Equal("I", result);
+        }
     }
 }
