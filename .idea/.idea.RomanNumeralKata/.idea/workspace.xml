@@ -13,11 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f30e7f98-bad0-4220-a339-3d6b87201b06" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RomanNumeralKata/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RomanNumeralKata/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanNumeralKata/RomanNumeralGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RomanNumeralKata/RomanNumeralGenerator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RomanNumeralKataTests/RomanNumeralTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RomanNumeralKataTests/RomanNumeralTests.cs" afterDir="false" />
-    </list>
+    <list default="true" id="f30e7f98-bad0-4220-a339-3d6b87201b06" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +74,7 @@
       <updated>1603946390846</updated>
       <workItem from="1603946397247" duration="45000" />
       <workItem from="1603946446859" duration="41000" />
-      <workItem from="1603946531213" duration="2721000" />
+      <workItem from="1603946531213" duration="3471000" />
     </task>
     <servers />
   </component>
