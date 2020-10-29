@@ -4,11 +4,13 @@ namespace RomanNumeralKata
     {
         public static string ToRomanNumeral(int number)
         {
-            if (number == 1)
+            var romanNumeral = "";
+            while (number > 0)
             {
-                return "I";
+                romanNumeral += "I";
+                number -= 1;
             }
-            return "";
+            return romanNumeral;
         }
     }
 }
